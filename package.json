@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-vue",
+  "version": "1.0.0",
+  "description": "eslint config for vue.js projects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/eslint-config-vue.git"
+  },
+  "keywords": [
+    "eslint",
+    "vue"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/eslint-config-vue/issues"
+  },
+  "homepage": "https://github.com/vuejs/eslint-config-vue#readme"
+}
