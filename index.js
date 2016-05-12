@@ -134,7 +134,6 @@ module.exports = {
     "yoda": [2, "never"],
 
     'prefer-const': 2,
-    'arrow-parens': [2, 'as-needed'],
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
 
     'object-curly-spacing': [2, 'always', {
