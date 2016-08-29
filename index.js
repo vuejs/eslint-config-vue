@@ -13,6 +13,10 @@ module.exports = {
     "node": true
   },
 
+  "plugins": [
+    "html"
+  ],
+
   "globals": {
     "document": false,
     "navigator": false,
