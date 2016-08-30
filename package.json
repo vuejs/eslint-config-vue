@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vuejs/eslint-config-vue#readme",
   "peerDependencies": {
+    "eslint": "^2.0.0 || ^3.0.0",
     "eslint-plugin-vue": "^1.0.0"
   }
 }
