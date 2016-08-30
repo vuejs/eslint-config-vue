@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vue",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "eslint config for vue.js projects",
   "main": "index.js",
   "repository": {
@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/vuejs/eslint-config-vue/issues"
   },
-  "homepage": "https://github.com/vuejs/eslint-config-vue#readme",
-  "peerDependencies": {
-    "eslint-plugin-html": "^1.5.2"
-  }
+  "homepage": "https://github.com/vuejs/eslint-config-vue#readme"
 }
