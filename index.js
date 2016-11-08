@@ -112,7 +112,7 @@ module.exports = {
     'no-useless-call': 2,
     'no-useless-computed-key': 2,
     'no-useless-constructor': 2,
-    'no-useless-escape': 2,
+    'no-useless-escape': 0,
     'no-whitespace-before-property': 2,
     'no-with': 2,
     'one-var': [2, { 'initialized': 'never' }],
