@@ -13,8 +13,6 @@ module.exports = {
     node: true
   },
 
-  plugins: ['vue'],
-
   globals: {
     document: false,
     navigator: false,
@@ -135,7 +133,6 @@ module.exports = {
     'prefer-const': 2,
     'no-debugger': process.env.NODE_ENV === 'production' ? 2 : 0,
     'object-curly-spacing': [2, 'always', { objectsInObjects: false }],
-    'array-bracket-spacing': [2, 'never'],
-    'vue/jsx-uses-vars': 2
+    'array-bracket-spacing': [2, 'never']
   }
 }
