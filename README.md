@@ -8,7 +8,8 @@ A set of opinionated ESLint (http://eslint.org) rules (all rules included) tailo
 
 ```js
 {
-  "extends": "vue"
+  "extends": "vue",
+  "plugins": ["vue"],
   // Your overrides...
 }
 ```
